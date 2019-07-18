@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+exports.__esModule = true;ggggggggg
 var point_1 = require("./point");
 var log = function (m) {
     console.log(m);
